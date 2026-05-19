@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuilderCarro/BuilderCarro.iml" filepath="$PROJECT_DIR$/BuilderCarro/BuilderCarro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fabrica/Fabrica.iml" filepath="$PROJECT_DIR$/Fabrica/Fabrica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fabrica_Motor/Fabrica_Motor.iml" filepath="$PROJECT_DIR$/Fabrica_Motor/Fabrica_Motor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypeCarro/PrototypeCarro.iml" filepath="$PROJECT_DIR$/PrototypeCarro/PrototypeCarro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/padrao_projeto_estudo.iml" filepath="$PROJECT_DIR$/.idea/padrao_projeto_estudo.iml" />
+    </modules>
+  </component>
+</project>
