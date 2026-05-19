@@ -16,7 +16,7 @@ public class ProtoOficinaDeMotores {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Fabrica ff = new FabricaBrasileira();
+        Fabrica ff = new FabricaAlema();
         Motor af = ff.criarMotor();
         af.exibirInfo();
         
